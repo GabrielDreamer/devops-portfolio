@@ -2,26 +2,36 @@
 
 Bem-vindo ao meu portfólio! Aqui compartilho meus estudos e projetos na área de DevOps e Cloud Computing.
 
-## 👨‍💻 Sobre mim
+## 📌 Sobre mim
 
-Me chamo **Gabriel Lima da Silva**, trabalho com redes de computadores e estou me especializando em Cloud, DevOps e automação de infraestrutura.  
-Atualmente focado em Linux, AWS, Docker, CI/CD e Terraform.
+- Me chamo **Gabriel**, trabalho com redes de computadores e estou me especializando em Cloud, DevOps e automação de infraestrutura.  
+- Busco uma oportunidade como **Cloud Support Jr.**, com foco em aprendizado contínuo.
+- Estudo todos os dias e documentar o que aprendo me ajuda a fixar e compartilhar.
 
-## 🧠 Habilidades
+## 🛠️ Ferramentas & Conhecimentos
 
-- ✅ Linux (básico a intermediário)
-- ✅ Versionamento com Git e GitHub
-- ✅ Docker e containerização de aplicações
-- ✅ AWS (certificação Cloud Practitioner em andamento)
-- ✅ CI/CD com GitHub Actions
-- ✅ Infraestrutura como Código com Terraform (em estudo)
+- 🐧 Linux (terminal, permissões, pacotes, processos)
+- 🐳 Docker (imagens, containers, docker-compose)
+- ☁️ AWS (Cloud Practitioner em andamento)
+- 🔧 Git e GitHub (versionamento e colaboração)
+- 🤖 GitHub Actions (integração contínua)
+- 🌱 Terraform (infraestrutura como código - básico)
 
 ## 📂 Projetos (em andamento)
 
 - Scripts de automação em Bash/Linux
 - Dockerfiles e Compose para ambientes prontos
-- Pipelines de integração contínua com GitHub Actions
+- Pipelines CI/CD usando GitHub Actions
 - Templates Terraform para subir recursos na AWS
+
+## 📚 Progresso de Estudo
+
+- [x] Linux básico concluído
+- [x] Git e GitHub aplicados na prática
+- [x] Docker com múltiplos containers rodando localmente
+- [x] CI/CD com GitHub Actions (configurando pipeline)
+- [x] Terraform para criar infraestrutura AWS
+- [ ] Finalizar certificação AWS Cloud Practitioner
 
 ## 📫 Contato
 
